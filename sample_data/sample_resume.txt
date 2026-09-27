@@ -1,0 +1,26 @@
+John Doe
+Software Engineer
+
+SUMMARY
+Software engineer with 4 years of experience building scalable backend
+systems and REST APIs. Passionate about clean code and mentoring junior
+developers.
+
+SKILLS
+Python, Django, Flask, PostgreSQL, MySQL, Docker, Git, AWS, REST API,
+Machine Learning, Pandas, Scikit-learn, Communication, Teamwork,
+Problem Solving
+
+EXPERIENCE
+Backend Developer - TechCorp (2021 - Present)
+- Developed and maintained REST APIs using Django and PostgreSQL
+- Deployed microservices on AWS using Docker
+- Collaborated with cross-functional teams to ship features on time
+- Mentored 2 junior engineers
+
+Junior Developer - StartupXYZ (2020 - 2021)
+- Built internal tools using Python and Flask
+- Wrote unit tests and participated in code reviews
+
+EDUCATION
+B.Tech in Computer Science, XYZ University (2016 - 2020)

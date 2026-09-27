@@ -1,0 +1,19 @@
+Job Title: Backend Engineer
+
+We are looking for a Backend Engineer with 3+ years of experience to
+join our growing team.
+
+Requirements:
+- Strong proficiency in Python and Django
+- Experience with REST API design and PostgreSQL
+- Familiarity with Docker and AWS
+- Experience with Kubernetes is a plus
+- Knowledge of machine learning is a plus
+- Strong communication and leadership skills
+- Experience with CI/CD pipelines
+
+Responsibilities:
+- Design and build scalable backend services
+- Collaborate with frontend and data teams
+- Mentor junior engineers
+- Participate in code reviews
