@@ -47,6 +47,7 @@ def get_text(uploaded_file, pasted_text):
     return pasted_text or ""
 
 
+
 if st.button("Analyze Match", type="primary"):
     resume_text = get_text(resume_file, resume_text_input)
     jd_text = get_text(jd_file, jd_text_input)
